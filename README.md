@@ -1,2 +1,2 @@
 # ConsoleSudoku
-Sudoku on Windows console
+Sudoku on the Windows console.
